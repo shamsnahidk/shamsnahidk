@@ -35,7 +35,7 @@ United States
 ## Current Goals
 - Build strong end-to-end portfolio projects
 - Showcase production-minded code and documentation
-- Prepare for software, AI, and data engineering roles## Hi there 👋
+- Prepare for software, AI, and data engineering roles
 
 <!--
 **shamsnahidk/shamsnahidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
